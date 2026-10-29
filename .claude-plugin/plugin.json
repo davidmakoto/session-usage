@@ -1,0 +1,1 @@
+{ "name": "session-usage", "version": "0.2.0", "description": "Pane with a 5-hour usage donut (this chat vs. everything else) and a subtle weekly tick", "types": "./types/index.d.ts" }
